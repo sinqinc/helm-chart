@@ -12,7 +12,7 @@ rbacEnabled: false
 cluster:
   # to generate a join token see:
   # https://docs.storageos.com/docs/install/prerequisites/clusterdiscovery
-  join: 
+  join: bb934131-3f17-45bc-85bd-2cb9821e18eb
 
   # sharedDir should be set if running kubelet in a container.  This should
   # be the path shared into to kubelet container, typically:
